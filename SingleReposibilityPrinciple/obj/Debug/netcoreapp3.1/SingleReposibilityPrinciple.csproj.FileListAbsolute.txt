@@ -1,0 +1,13 @@
+C:\Users\Maai Ham\RiderProjects\SingleReposibilityPrinciple\SingleReposibilityPrinciple\bin\Debug\netcoreapp3.1\SingleReposibilityPrinciple.exe
+C:\Users\Maai Ham\RiderProjects\SingleReposibilityPrinciple\SingleReposibilityPrinciple\bin\Debug\netcoreapp3.1\SingleReposibilityPrinciple.deps.json
+C:\Users\Maai Ham\RiderProjects\SingleReposibilityPrinciple\SingleReposibilityPrinciple\bin\Debug\netcoreapp3.1\SingleReposibilityPrinciple.runtimeconfig.json
+C:\Users\Maai Ham\RiderProjects\SingleReposibilityPrinciple\SingleReposibilityPrinciple\bin\Debug\netcoreapp3.1\SingleReposibilityPrinciple.runtimeconfig.dev.json
+C:\Users\Maai Ham\RiderProjects\SingleReposibilityPrinciple\SingleReposibilityPrinciple\bin\Debug\netcoreapp3.1\SingleReposibilityPrinciple.dll
+C:\Users\Maai Ham\RiderProjects\SingleReposibilityPrinciple\SingleReposibilityPrinciple\bin\Debug\netcoreapp3.1\SingleReposibilityPrinciple.pdb
+C:\Users\Maai Ham\RiderProjects\SingleReposibilityPrinciple\SingleReposibilityPrinciple\obj\Debug\netcoreapp3.1\SingleReposibilityPrinciple.csprojAssemblyReference.cache
+C:\Users\Maai Ham\RiderProjects\SingleReposibilityPrinciple\SingleReposibilityPrinciple\obj\Debug\netcoreapp3.1\SingleReposibilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\Maai Ham\RiderProjects\SingleReposibilityPrinciple\SingleReposibilityPrinciple\obj\Debug\netcoreapp3.1\SingleReposibilityPrinciple.AssemblyInfo.cs
+C:\Users\Maai Ham\RiderProjects\SingleReposibilityPrinciple\SingleReposibilityPrinciple\obj\Debug\netcoreapp3.1\SingleReposibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Maai Ham\RiderProjects\SingleReposibilityPrinciple\SingleReposibilityPrinciple\obj\Debug\netcoreapp3.1\SingleReposibilityPrinciple.dll
+C:\Users\Maai Ham\RiderProjects\SingleReposibilityPrinciple\SingleReposibilityPrinciple\obj\Debug\netcoreapp3.1\SingleReposibilityPrinciple.pdb
+C:\Users\Maai Ham\RiderProjects\SingleReposibilityPrinciple\SingleReposibilityPrinciple\obj\Debug\netcoreapp3.1\SingleReposibilityPrinciple.genruntimeconfig.cache
